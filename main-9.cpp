@@ -10,7 +10,8 @@ void Change(int *pa, int *pb){
 }
 
 int main(){
-    int a = 1, b = 2;
+    int a, b;
+    cin>>a>>b;
     cout<< "a "<< a << endl;
     cout<< "b "<< b << endl;
 
